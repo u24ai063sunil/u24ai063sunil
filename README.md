@@ -132,8 +132,8 @@ Research / competition-based repositories related to Indic computing
 
 ## 📫 Connect With Me
 
-- 📧 Email: *(add your email here)*
-- 💼 LinkedIn: *(add when ready)*
+- 📧 Email: suniljaat2911@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sunil-jaat-216052348/
 - 🌐 GitHub: https://github.com/u24ai063sunil
 
 ---
